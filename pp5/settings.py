@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qj!8%o_h15hhcdrr35_e96qonvbol(o2962g0$rd7pi&t+^tn$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-baptistapaulo-pp5-no9y5dfxogw.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['8000-baptistapaulo-pp5-pbqwr7csk2x.ws-eu105.gitpod.io']
 
 
 # Application definition
@@ -89,7 +89,7 @@ ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
 ACCOUNT_SIGNUP_EMAIL_ENTER_TWICE = True
 ACCOUNT_USERNAME_MIN_LENGTH = 4
 LOGIN_URL = '/accounts/login/'
-LOGIN_REDIRECT_URL = '/success'
+LOGIN_REDIRECT_URL = '/'
 
 WSGI_APPLICATION = 'pp5.wsgi.application'
 
