@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qj!8%o_h15hhcdrr35_e96qonvbol(o2962g0$rd7pi&t+^tn$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-baptistapaulo-pp5-pbqwr7csk2x.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['https://baptistapaulo-pp5-0y5idtbkd3.us2.codeanyapp.com/#/workspaces/pp5']
 
 
 # Application definition
