@@ -66,10 +66,14 @@ The Facebook page can be found [here](https://www.facebook.com/hydental/).
 ![main-section](/static/media/) 
 #### Footer
 ![Footer](/static/media/) 
-#### Galleries
+#### Galeries
 ![Gallery1](/static/media/) 
 #### Form
-![Form](/static/media/) 
+![Form](/static/media/)
+#### Admin
+![Form](/static/media/site_admin_login_page.PNG) 
+#### Heroku App
+![Form](/static/media/heroku_initial_working_page.PNG) 
 
 ## Left-to-Implement
 * A blog 
