@@ -60,15 +60,15 @@ The Facebook page can be found [here](https://www.facebook.com/hydental/).
 # Features
 ## Existing
 #### Navigation-Bar
-![Logo-Menu-Bar](static/)
+![Logo-Menu-Bar](/static/media/) 
 #### Main-Section
-![main-section](static/)
+![main-section](/static/media/) 
 #### Footer
-![Footer](static/)
+![Footer](/static/media/) 
 #### Galleries
-![Gallery1](static/)
+![Gallery1](/static/media/) 
 #### Form
-![Form](static/)
+![Form](/static/media/) 
 
 ## Left-to-Implement
 * A blog 
@@ -122,13 +122,14 @@ This is a section of the deployment still under development.
 ### Color-Scheme
 * Predominant colours across all site are light green, light yellow and white.
 * Green, black, grey and light blue ocasionaly.
+
 ![Color](/static/media/color_scheme.png)
 
 ### Wireframes
-![wireframe-1](static/)
-![wireframe-2](static/)
-![wireframe-3](static/)
-![wireframe-4](static/)
+![wireframe-1](/static/media/) 
+![wireframe-2](/static/media/) 
+![wireframe-3](/static/media/) 
+![wireframe-4](/static/media/) 
 
 [Table-of-Contents](#Table-of-Contents)
 
@@ -145,9 +146,10 @@ This website has not a customized page to acknowledge the submit form so the Cod
 * Lighthouse – Developer Tools
 * Chrome – Developer Tools
 * Responsive Design [here](https://ui.dev/amiresponsive).
-![responsive](readme/)
+![responsive](static/)
+
 ### Lighthouse
-![lighthouse-index-results-performance](readme/)
+![lighthouse-index-results-performance](/static/media/)   
 ### Devices
 Tested functionality and responsiveness using the below devices and browsers.
 * Mobiles
