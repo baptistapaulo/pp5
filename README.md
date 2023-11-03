@@ -1,4 +1,4 @@
-  ![Site Logo](assets/images/flags-portugal-and-brazil-on-a-white-background.png)
+  ![Site Logo](/static/media/logo2_hydent.png)
 ## Table of Contents
 * [Purpose](#Purpose)
 * [Social](#Social)
@@ -41,24 +41,24 @@
     * [Acknowledgements](#Acknowledgements)
 * [Comments](#Comments)
 
-## Purpose
-The idea behind this site is to bring some conscience about the importance of oral hygiene by using some educational videos and also through an extensive portfolio of products, selected from available distributors and more important, with technical advice from a dentist to ensure they are appropriate as the best option.
-The portfolio of dental products will provide some information about each item and then, if the user is registered it will be possible to buy online or see more detailed information otherwise, online purchasing will not be possible but some basic information still stay available. 
+# Purpose
+The idea behind this site is to bring conscience about the importance of oral hygiene by using some educational videos and also through an extensive portfolio of products, selected from available distributors and more important, with technical advice from a dentist to ensure they are appropriate as the best option.
+The portfolio of dental products will provide additional information about each item and then, if the user is registered it will be possible to buy online or see more detailed information otherwise, online purchasing will not be possible but some basic information still stay available. 
 This site was built with basic functionality and navigation but soon, more advanced features will be deployed such as a blog to put questions regarding any available products or request for some technical advise, a points scheme for discount on products if a user has a good record of purchasing, but all these features only if the user is registered. 
 
 The live website can be found [here](https://pp5-hydent-fe70bfaafea4.herokuapp.com/).
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Social
+# Social
 Facebook
 
-The Facebook page can be found [here] (https://www.facebook.com/hydental/).
+The Facebook page can be found [here](https://www.facebook.com/hydental/).
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Features
-### Existing
+# Features
+## Existing
 #### Navigation-Bar
 ![Logo-Menu-Bar](static/)
 #### Main-Section
@@ -70,13 +70,13 @@ The Facebook page can be found [here] (https://www.facebook.com/hydental/).
 #### Form
 ![Form](static/)
 
-### Left-to-Implement
+## Left-to-Implement
 * A blog 
-* A points scheme
+* A rewards scheme
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Technologies
+# Technologies
 * Languages
     * HTML5
     * CSS3
@@ -96,37 +96,35 @@ The Facebook page can be found [here] (https://www.facebook.com/hydental/).
 
 [Table-of-Contents](#Table-of-Contents)
 
-## User-Experience-Design
+# User-Experience-Design
 The UX was deployed and tested for various screen sizes but still needs further testing across different platforms (hardware and software).
 This is a section of the deployment still under development.
 
-### Business-Goals
+## Business-Goals
 * Provide a central repository of oral dentistry products information.
 * Allow users to have access to accurate product details.
 * Promote a forum for discussions about oral hygiene.
 * Create a points scheme for loyalty users.
 
-### User-Goals
-#### First-Time-Visitor
+## User-Goals
+### First-Time-Visitor
 * Easy navigation and search for information.
 * Site should be visually appealing.
-#### Returning-Visitor
+### Returning-Visitor
 * Leave some feedback.
 * Contact for further information.
-#### Frequent-User
+### Frequent-User
 * Check if any of the topics posted has been commented.
 * Find new products.
 * Order some products.
 
-### Design
-#### Color-Scheme
-* Predominant colours across all site are green and white.
-* Black, grey and blue ocasionaly.
-![Color](readme/color_scheme.PNG)
-#### Typography
-**DynaPuff** (designed by Toshi Omagari, Jennifer Daniel) from Google fonts was used mostly for headers and logo title.
-**Arial** (Helvetica, sans-serif) was used mostly for any other text in all sections, including the menu and form.
-#### Wireframes
+## Design
+### Color-Scheme
+* Predominant colours across all site are light green, light yellow and white.
+* Green, black, grey and light blue ocasionaly.
+![Color](/static/media/color_scheme.png)
+
+### Wireframes
 ![wireframe-1](static/)
 ![wireframe-2](static/)
 ![wireframe-3](static/)
@@ -134,23 +132,23 @@ This is a section of the deployment still under development.
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Limitations
+# Limitations
 This website has not a customized page to acknowledge the submit form so the Code Institute form dump page was used instead.
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Testing
-### Test-Results
-#### Validators
+# Testing
+## Test-Results
+### Validators
 * HTML - Official W3C validator [here](https://validator.w3.org/).
 * CSS - Official (Jigsaw) validator [here](https://jigsaw.w3.org/css-validator/).
 * Lighthouse – Developer Tools
 * Chrome – Developer Tools
 * Responsive Design [here](https://ui.dev/amiresponsive).
 ![responsive](readme/)
-#### Lighthouse
+### Lighthouse
 ![lighthouse-index-results-performance](readme/)
-#### Devices
+### Devices
 Tested functionality and responsiveness using the below devices and browsers.
 * Mobiles
     * Samsung S9
@@ -164,7 +162,7 @@ Tested functionality and responsiveness using the below devices and browsers.
     * Firefox
     * Edge
 
-### Testing-Issues
+## Testing-Issues
 * Bugs identified that need to be fixed.
     * main testing and development was performed on Chrome browser and no major issues detected.
     * on Edge and Firefox browsers also no major issues identified.
@@ -174,11 +172,11 @@ Tested functionality and responsiveness using the below devices and browsers.
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Deployment
-### Project-Creation
+# Deployment
+## Project-Creation
 This project website was created from scratch, with no forking from any other repositories but based on the initial structure of the Code Institute walkthrough.
 Once the structure was in place, then added content and styling as the work was in progress. Some styling was gathered from **Stackoverflow** or **W3schools**.
-#### Github-Pages
+### Github-Pages
 Repository
 1. Navigate to the GitHub [Repository:](https://github.com/baptistapaulo/pp5)
 1. Click the 'Settings' Tab.
@@ -214,8 +212,8 @@ So a fork is a copy of a repository. Forking a repository allows you to freely e
 
 [Table-of-Contents](#Table-of-Contents)
 
-## Credits
-### Content
+# Credits
+## Content
 * Text for the main section was created by myself.
 * Dental products were taken from the below sites:
 [Site A](https://)
@@ -234,7 +232,6 @@ So a fork is a copy of a repository. Forking a repository allows you to freely e
 [Table-of-Contents](#Table-of-Contents)
 
 ## Comments
-None so far - The Git Pages may contain two different deployments due to a change on the repository name where
-`github-pages at 307921d` refers
+None so far - `github`
 
 [Table-of-Contents](#Table-of-Contents)                                                              
