@@ -46,7 +46,8 @@ The idea behind this site is to bring conscience about the importance of oral hy
 The portfolio of dental products will provide additional information about each item and then, if the user is registered it will be possible to buy online or see more detailed information otherwise, online purchasing will not be possible but some basic information still stay available. 
 This site was built with basic functionality and navigation but soon, more advanced features will be deployed such as a blog to put questions regarding any available products or request for some technical advise, a points scheme for discount on products if a user has a good record of purchasing, but all these features only if the user is registered. 
 
-The live website can be found [here](https://pp5-hydent-fe70bfaafea4.herokuapp.com/).
+The live website can be found [here](https://pp5-hydent-fe70bfaafea4.herokuapp.com/). 
+[here](https://8000-baptistapaulo-pp5-s6ai9ozvtd.us2.codeanyapp.com/).
 
 [Table-of-Contents](#Table-of-Contents)
 
