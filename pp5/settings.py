@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qj!8%o_h15hhcdrr35_e96qonvbol(o2962g0$rd7pi&t+^tn$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://baptistapaulo-pp5-oeegbt9ut9.us2.codeanyapp.com/#/workspaces/pp5']
+ALLOWED_HOSTS = ['8000-baptistapaulo-pp5-s6ai9ozvtd.us2.codeanyapp.com']
 
 
 # Application definition
@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'allauth',
     'allauth.account',
-    'allauth.socialaccount'
+    'allauth.socialaccount',
     'home',
 ]
 
